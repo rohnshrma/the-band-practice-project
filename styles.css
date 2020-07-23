@@ -205,7 +205,7 @@ input[type="email"], [type="text"] {
 .map-img{
   height:900px;
   width:100%;
-  background-image: url("images/map.jpg");
+  background-image: url("map.jpg");
   background-size: cover;
 }
 
